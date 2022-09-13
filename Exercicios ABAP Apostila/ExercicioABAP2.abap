@@ -1,10 +1,10 @@
-*Considerando A=3, B=2 e C=5 determine como Verdadeiro ou Falso
-*A > B
-*B = A
-*(A >= B) AND (C <> 5)
-*(B < A) OR (A = 3)
-*(A > B) OR (A = 3)
-*(C <= 7) AND (B > 0) AND (C > A)
+* Considerando A=3, B=2 e C=5 determine como Verdadeiro ou Falso
+* A > B
+* B = A
+* (A >= B) AND (C <> 5)
+* (B < A) OR (A = 3)
+* (A > B) OR (A = 3)
+* (C <= 7) AND (B > 0) AND (C > A)
 
 REPORT zz_exercicio2_37.
 

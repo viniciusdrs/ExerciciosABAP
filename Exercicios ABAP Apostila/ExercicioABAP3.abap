@@ -1,4 +1,4 @@
-*Contruir um algoritmo que calcule a área de um triângulo
+* Contruir um algoritmo que calcule a área de um triângulo
 
 REPORT zz_exercicio3_37.
 

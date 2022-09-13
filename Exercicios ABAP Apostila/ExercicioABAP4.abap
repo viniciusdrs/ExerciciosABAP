@@ -1,4 +1,4 @@
-*Construir um algoritmo que leia quatro notas e imprima a média aritmética do aluno
+* Construir um algoritmo que leia quatro notas e imprima a média aritmética do aluno
 
 REPORT zz_exercicio4_37.
 

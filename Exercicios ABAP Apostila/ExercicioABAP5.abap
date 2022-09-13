@@ -1,6 +1,6 @@
-*Contruir um algoritmo que leia o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
-*A idade dessa pessoa
-*Quantos anos essa pessoa terá em 2015
+* Contruir um algoritmo que leia o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+* A idade dessa pessoa
+* Quantos anos essa pessoa terá em 2015
 
 REPORT zz_exercicio5_37.
 
