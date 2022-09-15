@@ -1,5 +1,8 @@
-* A jornada de trabalho semanal de um funcionário é de 40 horas. O funcionário que trabalhar mais de 40 horas receberá hora extra, cujo cálculo é o valor da hora regular com um acréscimo de 50%.
-* Escreva um algoritmo que leia o número de horas trabalhadas em um mês, o salário total do funcionário, que deverá ser acrescido das horas extras, caso tenham sido trabalhadas (considere que o mês posssua 4 semanas exatas)
+
+* A jornada de trabalho semanal de um funcionário é de 40 horas.
+* O funcionário que trabalhar mais de 40 horas receberá hora extra, cujo cálculo é o valor da hora regular com um acréscimo de 50%.
+* Escreva um algoritmo que leia o número de horas trabalhadas em um mês, o salário total do funcionário, que deverá ser acrescido das horas extras, caso tenham sido trabalhadas. 
+* (considere que o mês posssua 4 semanas exatas)
 
 REPORT zz_exercicio18_37.
 
@@ -24,3 +27,9 @@ FORM f_exibe_sal.
 
   WRITE: 'Salário Mensal: ' , v_total_sal.
 ENDFORM.
+=======
+* A jornada de trabalho semanal de um funcionário é de 40 horas.
+* O funcionário que trabalhar mais de 40 horas receberá hora extra, cujo cálculo é o valor da hora regular com um acréscimo de 50%.
+* Escreva um algoritmo que leia o número de horas trabalhadas em um mês, o salário total do funcionário, que deverá ser acrescido das horas extras, caso tenham sido trabalhadas. 
+* (considere que o mês posssua 4 semanas exatas)
+>>>>>>> edecacd07e5ec2f70e79faac3ad86ff3d3a98b75
